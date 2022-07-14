@@ -31,18 +31,19 @@ I have completed the following courses as part of my BE degree.
 
 **2. Microelectronics and VLSI**
   - Electronic devices [EXC302, EXL301]
-  - CMOS VLSI Design [EXC801, EXL801]
-  - MEMS Technology [EXC803, EXL803]
   - Basic VLSI Design [EXC601, EXL601]
   - IC Technology [EXC702, EXL702]
+  - CMOS VLSI Design [EXC801, EXL801]
+  - MEMS Technology [EXC803, EXL803]
 
 
 **3. Embedded System**
   - Microprocessor and Periperals [EXC403, EXL402]
   - Microcontrollers and Applications [EXC501, EXL501]
   - Comupter Organization [EXC603]
-  - Embedded System Design [EXC701, EXL701]
   - Digital Signal Processing and Processors [EXC605, EXL602]
+  - Embedded System Design [EXC701, EXL701]
+  
 
 **4. Fundamental Electronics**
   - Basic Electrical & Electronics Engineer [FEC105]
@@ -56,8 +57,8 @@ I have completed the following courses as part of my BE degree.
 
 
 **5. Programming**
-  - Object Oriented Programming Methodology Laboratory [EXL304]
   - Structured Programming Approach [FEC205]
+  - Object Oriented Programming Methodology Laboratory [EXL304]
   
 
 **6. Mechanics and Instrumentation**
@@ -68,19 +69,19 @@ I have completed the following courses as part of my BE degree.
 
 
 **7. Humanities and Social Sciences**
-  - Business Communication and Ethics [EXC506]
   - Communication Skills [FEC206]
+  - Business Communication and Ethics [EXC506]
   
 
-**8. Interdisciplinary Courses**
-  - Advanced Networking Technologies [EXC802, EXL802]
-  - Artificial Intelligence [EXC7052, EXL7052]
-  - Computer Communication Networks [EXC704]
+**8. Other Courses**
   - Basic Workshop - I,II [FEL101,FEL201]
   - Principles of Control Systems [EXC404, EXL403]
   - Electromagnetic Engineering [EXC503]
-  - Power Electronics-I [EXC604, EXL603b]
   - Modern Information Technology for  Management [EXC606]
+  - Power Electronics-I [EXC604, EXL603b]
   - Power Electronics-II [EXC703, EXL704]
+  - Artificial Intelligence [EXC7052, EXL7052]
+  - Computer Communication Networks [EXC704]
+  - Advanced Networking Technologies [EXC802, EXL802]
   - Biomedical Electronics [EXC8044, EXL8044]
 
