@@ -24,7 +24,7 @@ Different classifier analog circuits are reviewed.[[Report]](EE694_203070064_Sem
 
 **3. BE Final Year Project: Design Optimization, Simulation and Analysis of the Micro-TCD Gas Sensor**
 
-Micro-bridge gas  sensor modelled and simulated for maximum temperature change. [[report]](BE_Project_Report.pdf)
+Micro-bridge gas  sensor modelled and simulated for maximum temperature change.[[report]](BE_Project_Report.pdf)
 
 
 <h1> Course Projects </h1> 
