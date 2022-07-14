@@ -23,3 +23,10 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 8-bit current steering Binary and Segmented DAC is designed for the course mixed-signal vlsi design. Both the Binary and Segmented DAC is compared.
 
 [[Report]](203070064_SagarZoting_Ajinkya_Project.pdf)
+
+
+**2. CMOS Analog VLSI Design: Operational Amplifier Design** 
+
+In this course project, OPAMP is designed with the help instructor's guidelinece. This is rail-to-rail, two folded cascode stage OPAMP with Class-AB output stage.
+
+[[Report]]()
