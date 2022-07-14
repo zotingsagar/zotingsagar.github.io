@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Years
-permalink: /years/
+title: Projects
+permalink: /projects/
 ---
 
 
