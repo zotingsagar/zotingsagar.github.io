@@ -19,7 +19,7 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 
 **2. Study of Low Power Analog Circuits for Machine Learning Applications**
 
-Different classifier analog circuits are reviewed. 
+Different classifier analog circuits are reviewed.[[Report]]()
 
 **2. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
 
