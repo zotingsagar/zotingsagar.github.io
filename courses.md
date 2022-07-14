@@ -17,22 +17,26 @@ These courses have been completed as part of the Mtech program. For detail infor
 - VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
 
 I have completed the following courses as part of my BE degree. 
-**Basic Courses**
-**Microelectronics and VLSI**
-**Embedded System**
-**Fundamental Electronics**
-**Programming**
-**Mechanics and Instrumentation**
-**Humanities and Social Sciences**
-**Interdisciplinary Courses**
+
+**1. Basic Courses**
+  - Applied Mathematics -I,II,III,IV [FEC101,FEC201,EXS301,EXS401]
+  - Applied Physics - I,II [FEC102, FEC202]
+  - Applied Chemistry - I,II [FEC103, FEC203]
+  - Environmental Studies [FEC106]
+
+**2. Microelectronics and VLSI**
+**3. Embedded System**
+**4. Fundamental Electronics**
+**5. Programming**
+**6. Mechanics and Instrumentation**
+**7. Humanities and Social Sciences**
+**8. Interdisciplinary Courses**
   
   
-- Applied Mathematics -I,II,III,IV [FEC101,FEC201,EXS301,EXS401]
-- Applied Physics - I,II [FEC102, FEC202]
-- Applied Chemistry - I,II [FEC103, FEC203]
+
 - Engineering Mechanics [FEC104]
 - Basic Electrical & Electronics Engineer [FEC105]
-- Environmental Studies [FEC106]
+
 - Basic Workshop - I,II [FEL101,FEL201]
 - Engineering Drawing [FEC204]
 - Structured Programming Approach [FEC205]
