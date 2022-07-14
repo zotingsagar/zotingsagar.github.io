@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h1> Major Projects </h2> 
+<h1> Major Projects </h1> 
 
 
 
