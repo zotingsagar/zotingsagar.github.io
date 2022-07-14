@@ -3,7 +3,7 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
-The folllowing courses is a list of all courses that I have completed at IIT Bombay. For detail information click on course code.
+These courses have been completed as part of the Mtech program. For detail information click on course code.
 
 - CMOS Analog VLSI Design [[EE618]](https://www.ee.iitb.ac.in/web/academics/courses/EE618)
 - Mixed Signal VLSI Design [[EE719]](https://www.ee.iitb.ac.in/web/academics/courses/EE719)
@@ -15,3 +15,68 @@ The folllowing courses is a list of all courses that I have completed at IIT Bom
 - Testing and Verification of VLSI Circuits [[EE709]](https://www.ee.iitb.ac.in/web/academics/courses/EE709)
 - Algorithmic Design of Digital Systems [[EE789]](https://www.ee.iitb.ac.in/web/academics/courses/EE789)
 - VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
+
+I have completed the following courses as part of my BE degree. 
+- Applied Mathematics -I,II,III,IV [FEC101,FEC201,EXS301,EXS401]
+- Applied Physics - I,II [FEC102, FEC202]
+- Applied Chemistry - I,II [FEC103, FEC203]
+- Engineering Mechanics [FEC104]
+- Basic Electrical & Electronics Engineer [FEC105]
+- Environmental Studies [FEC106]
+- Basic Workshop - I,II [FEL101,FEL201]
+- Engineering Drawing [FEC204]
+- Structured Programming Approach [FEC205]
+- Communication Skills [FEC206]
+- Electronic devices [EXC302]
+- Digital Circuits & Design [EXC303]
+- Circuit Theory [EXC304]
+- Electronic Instruments and Measurements [EXC305]
+- Electronic Devices Laboratory [EXL301]
+- Digital Circuits and Design Laboratory [EXL302]
+- Circuit Theory and Measurements Laboratory [EXL303]
+- Object Oriented Programming Methodology Laboratory [EXL304]
+- Discrete Electronic Circuits [EXC402]
+- Microprocessor and Periperals [EXC403]
+- Principles of Control Systems [EXC404]
+- Fundamentals of Communication Engineering [EXC405]
+- Electrical Machine [EXC406]
+- Discrete Electronics Laboratory [EXL401]
+- Microprocessor and Peripherals Laboratory [EXL402]
+- Control System and Electrical Machines [EXL403]
+- Communication Engineering Laboratory [EXL404]
+- Microcontrollers and Applications [EXC501]
+- Design with Linear Integrated Circuits [EXC502]
+- Electromagnetic Engineering [EXC503]
+- Signals and Systems [EXC504]
+- Digital Communication [EXC505]
+- Business Communication and Ethics [EXC506]
+- Microcontrollers and Applications Laboratory [EXL501]
+- Design with Linear Integrated Circuits Laboratory [EXL502]
+- Digital Communication Laboratory [EXL503]
+- Basic VLSI Design [EXC601]
+- Advanced Instrumentation Systems [EXC602]
+- Comupter Organization [EXC603]
+- Power Electronics [EXC604]
+- Digital Signal Processing and Processors [EXC605]
+- Modern Information Technology for  Management [EXC606]
+- VLSI Design Laboratory [EXL601]
+- Digital Signal Processing and Processors Laboratory [EXL602]
+- Advanced Instrumentation System [EXL603a]
+- Power Electronics Lab [EXL603b]
+- Embedded System Design [EXC701]
+- IC Technology [EXC702]
+- Power Electronics-II [EXC703]
+- Computer Communication Networks [EXC704]
+- Artificial Intelligence [EXC7052]
+- Embedded System Design Laboratory [EXL701]
+- IC Technology Laboratory [EXL702]
+- Power Electronics -II Lab [EXL704]
+- Artifical Intelligence Laboratory [EXL7052]
+- CMOS VLSI Design [EXC801]
+- Advanced Networking Technologies [EXC802]
+- MEMS Technology [EXC803]
+- Biomedical Electronics [EXC8044]
+- CMOS VLSI Design Laboratory [EXL801]
+- Advanced Networking Technologies Laboratory [EXL802]
+- MEMS Technology Laboratory [EXL803]
+- Biomedical Electronics Laboratory [EXL8044]
