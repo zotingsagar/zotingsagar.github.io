@@ -3,6 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h1> Major Projects </h1>
+<h2> Major Projects </h2>
 **Master's Thesis: Design of Pipeline ADC based on Ring Amplifier** 
 
