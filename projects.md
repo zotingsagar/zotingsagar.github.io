@@ -45,4 +45,4 @@ In this course project, OPAMP is designed with the help instructor's guidelinece
 **3. Electronic System Design: Clap Detector for Toy and Appliance Control** 
 
 System is implemted in pSpice to detect a clap and generate control signal for the toy or appliance.
-[[Report]](SagarZoting_Course Project.pdf)
+[[Report]](EE616_S21_MINIPROJECT_203076001.pdf)
