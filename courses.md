@@ -11,7 +11,7 @@ The folllowing courses is a list of all courses that I have completed at IIT Bom
 - VLSI Design [[EE671]](https://www.ee.iitb.ac.in/web/academics/courses/EE671)
 - Hardware Discription Language [[EE721]](https://www.ee.iitb.ac.in/web/academics/courses/EE721)
 - VLSI Design LAB [[EE705]](https://www.ee.iitb.ac.in/web/academics/courses/EE705)
-- VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
 - Digital Signal Processing and its Application [[EE603]](https://www.ee.iitb.ac.in/web/academics/courses/EE603)
 - Testing and Verification of VLSI Circuits [[EE709]](https://www.ee.iitb.ac.in/web/academics/courses/EE709)
 - Algorithmic Design of Digital Systems [[EE789]](https://www.ee.iitb.ac.in/web/academics/courses/EE789)
+- VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
