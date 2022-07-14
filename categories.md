@@ -1,6 +1,5 @@
 ---
-layout: archive-taxonomies
-type: categories
-title: Categories
-permalink: /categories/
+layout: pages
+title: Hobbies
+permalink: /hobbies/
 ---
