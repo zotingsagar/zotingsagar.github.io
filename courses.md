@@ -25,6 +25,8 @@ I have completed the following courses as part of my BE degree.
 <h1> Mechanics and Instrumentation <h1>
 <h1> Humanities and Social Sciences <h1>
 <h1> Interdisciplinary Courses <h1>
+  
+  
 - Applied Mathematics -I,II,III,IV [FEC101,FEC201,EXS301,EXS401]
 - Applied Physics - I,II [FEC102, FEC202]
 - Applied Chemistry - I,II [FEC103, FEC203]
