@@ -15,5 +15,4 @@ permalink: /projects/
 The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAMP is used to design interstage residue amplifier, but in this project ring amplifier is used. Ring amplifier is fairly new concept which is designed using cascading inverters. 
 
 [[Thesis Report]](MTP2_Thesis_SagarZoting_203070064.pdf)
-
 [[Presentation]](Presentation.pdf)
