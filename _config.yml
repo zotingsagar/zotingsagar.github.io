@@ -20,7 +20,7 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 # disqus:
 # Jekyll
 # ======
-skin: sunrise
+skin: daylight
 subscribe: false
 
 exclude:
