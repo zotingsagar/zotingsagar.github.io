@@ -30,13 +30,19 @@ Micro-bridge gas  sensor modelled and simulated for maximum temperature change.[
 <h1> Course Projects </h1> 
 
 
-**2. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
+**1. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
 
 8-bit current steering Binary and Segmented DAC is designed for the course mixed-signal vlsi design. Both the Binary and Segmented DAC is compared.
 [[Report]](203070064_SagarZoting_Ajinkya_Project.pdf)
 
 
-**3. CMOS Analog VLSI Design: Operational Amplifier Design** 
+**2. CMOS Analog VLSI Design: Operational Amplifier Design** 
 
 In this course project, OPAMP is designed with the help instructor's guidelinece. This is rail-to-rail, two folded cascode stage OPAMP with Class-AB output stage.
+[[Report]](SagarZoting_Course Project.pdf)
+
+
+**3. Electronic System Design: Clap Detector for Toy and Appliance Control** 
+
+System is implemted in pSpice to detect a clap and generate control signal for the toy or appliance.
 [[Report]](SagarZoting_Course Project.pdf)
