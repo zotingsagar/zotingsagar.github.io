@@ -49,3 +49,7 @@ System is implemted in pSpice to detect a clap and generate control signal for t
 
 
 <h1> Other Projects </h1> 
+
+
+- VLSI Design Lab: Ball Levitation using Computer Vision (*SEM2*)
+- Mitsubishi Electric Cup 2018 : Smart Hydroponics System (*2018*)
