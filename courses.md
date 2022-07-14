@@ -5,16 +5,19 @@ permalink: /courses/
 ---
 These courses have been completed as part of the Mtech program. For detail information click on course code.
 
-- CMOS Analog VLSI Design [[EE618]](https://www.ee.iitb.ac.in/web/academics/courses/EE618)
-- Mixed Signal VLSI Design [[EE719]](https://www.ee.iitb.ac.in/web/academics/courses/EE719)
-- Electronic Systems Design [[EE616]](https://www.ee.iitb.ac.in/web/academics/courses/EE616)
-- VLSI Design [[EE671]](https://www.ee.iitb.ac.in/web/academics/courses/EE671)
-- Hardware Discription Language [[EE721]](https://www.ee.iitb.ac.in/web/academics/courses/EE721)
-- VLSI Design LAB [[EE705]](https://www.ee.iitb.ac.in/web/academics/courses/EE705)
-- Digital Signal Processing and its Application [[EE603]](https://www.ee.iitb.ac.in/web/academics/courses/EE603)
-- Testing and Verification of VLSI Circuits [[EE709]](https://www.ee.iitb.ac.in/web/academics/courses/EE709)
-- Algorithmic Design of Digital Systems [[EE789]](https://www.ee.iitb.ac.in/web/academics/courses/EE789)
-- VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
+  - CMOS Analog VLSI Design [[EE618]](https://www.ee.iitb.ac.in/web/academics/courses/EE618)
+  - Mixed Signal VLSI Design [[EE719]](https://www.ee.iitb.ac.in/web/academics/courses/EE719)
+  - VLSI Design [[EE671]](https://www.ee.iitb.ac.in/web/academics/courses/EE671)
+  - VLSI Design LAB [[EE705]](https://www.ee.iitb.ac.in/web/academics/courses/EE705)
+  - VLSI Technology [[EE669]](https://www.ee.iitb.ac.in/web/academics/courses/EE669)
+  - Electronic Systems Design [[EE616]](https://www.ee.iitb.ac.in/web/academics/courses/EE616)
+  - Hardware Discription Language [[EE721]](https://www.ee.iitb.ac.in/web/academics/courses/EE721)
+  - Digital Signal Processing and its Application [[EE603]](https://www.ee.iitb.ac.in/web/academics/courses/EE603)
+  - Testing and Verification of VLSI Circuits [[EE709]](https://www.ee.iitb.ac.in/web/academics/courses/EE709)
+  - Algorithmic Design of Digital Systems [[EE789]](https://www.ee.iitb.ac.in/web/academics/courses/EE789)
+  - Biostatistics [[BB621]](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp)
+  - Communication Skills -I,II [EE792,HS791]
+  - Gender in the Workplace [GC101]
 
 I have completed the following courses as part of my BE degree. 
 
