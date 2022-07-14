@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h1> Major Projects </h1> 
+<h1> Major Projects and Seminar </h1> 
 
 
 
@@ -16,6 +16,10 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 [[Thesis Report]](MTP2_Thesis_SagarZoting_203070064.pdf)
 [[Presentation]](Presentation.pdf)
 
+
+**2. Study of Low Power Analog Circuits for Machine Learning Applications**
+
+Different classifier analog circuits are reviewed. 
 
 **2. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
 
