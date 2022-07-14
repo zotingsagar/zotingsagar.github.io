@@ -21,6 +21,11 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 
 Different classifier analog circuits are reviewed.[[Report]](EE694_203070064_Seminar_Report.pdf)
 
+
+**3. BE Final Year Project: Design Optimization, Simulation and Analysis of the Micro-TCD Gas Sensor**
+
+Micro-bridge gas  sensor modelled and simulated for maximum temperature change. [[report]]()
+
 **2. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
 
 8-bit current steering Binary and Segmented DAC is designed for the course mixed-signal vlsi design. Both the Binary and Segmented DAC is compared.
