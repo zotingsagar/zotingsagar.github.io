@@ -26,4 +26,5 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 **3. CMOS Analog VLSI Design: Operational Amplifier Design** 
 
 In this course project, OPAMP is designed with the help instructor's guidelinece. This is rail-to-rail, two folded cascode stage OPAMP with Class-AB output stage.
+
 [[Report]](SagarZoting_Course Project.pdf)
