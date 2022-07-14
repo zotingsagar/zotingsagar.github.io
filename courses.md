@@ -23,74 +23,61 @@ I have completed the following courses as part of my BE degree.
   - Applied Physics - I,II [FEC102, FEC202]
   - Applied Chemistry - I,II [FEC103, FEC203]
   - Environmental Studies [FEC106]
+  - Signals and Systems [EXC504]
+
 
 **2. Microelectronics and VLSI**
+  - Electronic devices [EXC302, EXL301]
+  - CMOS VLSI Design [EXC801, EXL801]
+  - MEMS Technology [EXC803, EXL803]
+  - Basic VLSI Design [EXC601, EXL601]
+  - IC Technology [EXC702, EXL702]
+
+
 **3. Embedded System**
+  - Microprocessor and Periperals [EXC403, EXL402]
+  - Microcontrollers and Applications [EXC501, EXL501]
+  - Comupter Organization [EXC603]
+  - Embedded System Design [EXC701, EXL701]
+  - Digital Signal Processing and Processors [EXC605, EXL602]
+
 **4. Fundamental Electronics**
+  - Basic Electrical & Electronics Engineer [FEC105]
+  - Digital Circuits & Design [EXC303, EXL 302]
+  - Circuit Theory [EXC304, EXL303]
+  - Electronic Instruments and Measurements [EXC305]
+  - Discrete Electronic Circuits [EXC402, EXL401]
+  - Fundamentals of Communication Engineering [EXC405, EXL404]
+  - Digital Communication [EXC505, EXL503]
+  - Design with Linear Integrated Circuits [EXC502, EXL502]
+
+
 **5. Programming**
+  - Object Oriented Programming Methodology Laboratory [EXL304]
+  - Structured Programming Approach [FEC205]
+  
+
 **6. Mechanics and Instrumentation**
+  - Engineering Mechanics [FEC104]
+  - Engineering Drawing [FEC204]
+  - Electrical Machine [EXC406, EXL403]
+  - Advanced Instrumentation Systems [EXC602, EXL603a]
+
+
 **7. Humanities and Social Sciences**
+  - Business Communication and Ethics [EXC506]
+  - Communication Skills [FEC206]
+  
+
 **8. Interdisciplinary Courses**
-  
-  
+  - Advanced Networking Technologies [EXC802, EXL802]
+  - Artificial Intelligence [EXC7052, EXL7052]
+  - Computer Communication Networks [EXC704]
+  - Basic Workshop - I,II [FEL101,FEL201]
+  - Principles of Control Systems [EXC404, EXL403]
+  - Electromagnetic Engineering [EXC503]
+  - Power Electronics-I [EXC604, EXL603b]
+  - Modern Information Technology for  Management [EXC606]
+  - Power Electronics-II [EXC703, EXL704]
+  - Biomedical Electronics [EXC8044, EXL8044]
 
-- Engineering Mechanics [FEC104]
-- Basic Electrical & Electronics Engineer [FEC105]
-
-- Basic Workshop - I,II [FEL101,FEL201]
-- Engineering Drawing [FEC204]
-- Structured Programming Approach [FEC205]
-- Communication Skills [FEC206]
-- Electronic devices [EXC302]
-- Digital Circuits & Design [EXC303]
-- Circuit Theory [EXC304]
-- Electronic Instruments and Measurements [EXC305]
-- Electronic Devices Laboratory [EXL301]
-- Digital Circuits and Design Laboratory [EXL302]
-- Circuit Theory and Measurements Laboratory [EXL303]
-- Object Oriented Programming Methodology Laboratory [EXL304]
-- Discrete Electronic Circuits [EXC402]
-- Microprocessor and Periperals [EXC403]
-- Principles of Control Systems [EXC404]
-- Fundamentals of Communication Engineering [EXC405]
-- Electrical Machine [EXC406]
-- Discrete Electronics Laboratory [EXL401]
-- Microprocessor and Peripherals Laboratory [EXL402]
-- Control System and Electrical Machines [EXL403]
-- Communication Engineering Laboratory [EXL404]
-- Microcontrollers and Applications [EXC501]
-- Design with Linear Integrated Circuits [EXC502]
-- Electromagnetic Engineering [EXC503]
-- Signals and Systems [EXC504]
-- Digital Communication [EXC505]
-- Business Communication and Ethics [EXC506]
-- Microcontrollers and Applications Laboratory [EXL501]
-- Design with Linear Integrated Circuits Laboratory [EXL502]
-- Digital Communication Laboratory [EXL503]
-- Basic VLSI Design [EXC601]
-- Advanced Instrumentation Systems [EXC602]
-- Comupter Organization [EXC603]
-- Power Electronics [EXC604]
-- Digital Signal Processing and Processors [EXC605]
-- Modern Information Technology for  Management [EXC606]
-- VLSI Design Laboratory [EXL601]
-- Digital Signal Processing and Processors Laboratory [EXL602]
-- Advanced Instrumentation System [EXL603a]
-- Power Electronics Lab [EXL603b]
-- Embedded System Design [EXC701]
-- IC Technology [EXC702]
-- Power Electronics-II [EXC703]
-- Computer Communication Networks [EXC704]
-- Artificial Intelligence [EXC7052]
-- Embedded System Design Laboratory [EXL701]
-- IC Technology Laboratory [EXL702]
-- Power Electronics -II Lab [EXL704]
-- Artifical Intelligence Laboratory [EXL7052]
-- CMOS VLSI Design [EXC801]
-- Advanced Networking Technologies [EXC802]
-- MEMS Technology [EXC803]
-- Biomedical Electronics [EXC8044]
-- CMOS VLSI Design Laboratory [EXL801]
-- Advanced Networking Technologies Laboratory [EXL802]
-- MEMS Technology Laboratory [EXL803]
-- Biomedical Electronics Laboratory [EXL8044]
