@@ -16,3 +16,9 @@ The 8 bit pipeline ADC is designed using 1.5-bit per stage. Conventionally, OPAM
 
 [[Thesis Report]](MTP2_Thesis_SagarZoting_203070064.pdf)
 [[Presentation]](Presentation.pdf)
+
+
+**2A. Mixed Signal VLSI Design: Current Steering Digital-to-Analog Converter Design (Binary and Segmented DAC)** 
+
+8-bit current steering Binary and Segmented DAC is designed for the course mixed-signal vlsi design. Both the Binary and Segmented DAC is compared.
+
